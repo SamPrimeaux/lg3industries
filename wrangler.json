@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "lg3industries",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d8261777-9384-44f7-924d-c92247d55b46",
+			"database_name": "meauxos"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
